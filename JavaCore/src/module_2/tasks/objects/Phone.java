@@ -1,4 +1,4 @@
-package module_1.tasks.objects;
+package module_2.tasks.objects;
 
 public class Phone {
     String number;
