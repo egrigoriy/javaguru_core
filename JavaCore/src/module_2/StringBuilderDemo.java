@@ -1,14 +1,12 @@
 package module_2;
 
-import java.util.Timer;
-
-public class StringBufferDemo {
+public class StringBuilderDemo {
     public static void main(String[] args) {
-        int iterations = 200000;
+        int iterations = 100000;
         String s = "";
         long start = System.nanoTime();
         for (int i = 0; i < iterations; i++) {
-            s += "a";
+            s += "aaabbbccc";
         }
         long end = System.nanoTime();
         double elapsedTime = (end - start) / 1e9;
