@@ -1,4 +1,4 @@
-package module_3.animals;
+package module_3.oop.animals;
 
 public class AnimalsDemo {
     public static void main(String[] args) {

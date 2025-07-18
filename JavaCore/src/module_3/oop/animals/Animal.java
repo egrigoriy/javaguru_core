@@ -1,4 +1,4 @@
-package module_3.animals;
+package module_3.oop.animals;
 
 public class Animal {
     public void voice() {

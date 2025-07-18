@@ -1,4 +1,4 @@
-package module_3.transport;
+package module_3.oop.transport;
 
 public class GroundTransport extends Transport {
     @Override

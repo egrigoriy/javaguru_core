@@ -1,8 +1,6 @@
-package module_3.tasks.task3;
+package module_3.oop.tasks.task3;
 
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Flower {
     private int price;

@@ -1,4 +1,4 @@
-package module_3.tasks.task2;
+package module_3.oop.tasks.task2;
 
 public class Student extends User {
     Integer grant;

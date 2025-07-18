@@ -1,6 +1,4 @@
-package module_3.tasks.task1;
-
-import org.w3c.dom.ls.LSOutput;
+package module_3.oop.tasks.task1;
 
 public class FactoryDemo {
 
